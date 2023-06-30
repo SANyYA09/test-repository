@@ -1,0 +1,88 @@
+<!DOCTYPE html> 
+ 
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+    <meta charset="utf-8" /> 
+    <title>MoGo</title> 
+</head> 
+<body> 
+    <header> 
+        <h1>MoGo</h1> 
+        <nav> 
+            <ul> 
+                <li> <a href="index.html"> About</a></li> 
+                <li> <a href=""> Service</a></li> 
+                <li> <a href=""> Work</a></li> 
+                <li> <a href=""> Blog</a></li> 
+                <li> <a href=""> Contact </a></li> 
+                </ul> 
+</nav> 
+    </header> 
+    <main> 
+        <section> 
+            <p>We work with</p> 
+            <h2>amazing services</h2> 
+            <br /> 
+            <div> 
+                <img src="D:\проект\img\icon 1.png" alt="" /> 
+                <p><b>Photography</b></p> 
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p> 
+            </div> 
+            <div> 
+                <img src="D:\проект\img\icon 2.png" alt="" /> 
+                <p><b>Photography</b></p> 
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p> 
+            </div> 
+            <div> 
+                <img src="D:\проект\img\icon 3.png" alt="" /> 
+                <p><b>Photography</b></p> 
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p> 
+            </div> 
+            <div> 
+                <img src="D:\проект\img\icon 4.png" alt="" /> 
+                <p><b>Photography</b></p> 
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p> 
+            </div> 
+            <div> 
+                <img src="D:\проект\img\icon 5.png" alt="" /> 
+                <p><b>Photography</b></p> 
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p> 
+            </div> 
+            <div> 
+                <img src="D:\проект\img\icon 6.png" alt="" /> 
+                <p><b>Photography</b></p> 
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p> 
+            </div> 
+        </section> 
+        <section> 
+            <p>Who we are</p> 
+            <h2>Meet our team</h2> 
+            <br /> 
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p> 
+            <br /> 
+            <div> 
+                <img src="D:\проект\img\men 1.png" alt="" /> 
+                <p><b>Matthew Dix</b></p> 
+                <p>Graphic design</p> 
+            </div> 
+            <div> 
+                <img src="D:\проект\img\men 2.png" alt="" /> 
+                <p><b>Christopher Campbell</b></p> 
+                <p>Branding/UX design</p> 
+            </div> 
+            <div> 
+                <img src="D:\проект\img\men 3.png" alt="" /> 
+                <p><b>Michael Fertig </b></p> 
+                <p>Developer</p> 
+            </div> 
+        </section> 
+    </main> 
+    <footer> 
+        <hr /> 
+        <p>© 2016 MoGo free PSD template by Laaqiq</p> 
+        <form> 
+            <input type="email" placeholder="Your Email...." /> 
+        </form> 
+    </footer> 
+</body> 
+</html>
